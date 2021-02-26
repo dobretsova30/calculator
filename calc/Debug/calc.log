@@ -1,0 +1,11 @@
+﻿  char.c
+  main.c
+  matherr.c
+  my_math.c
+  parse.c
+  polish.c
+  stack.c
+  string.c
+  token.c
+  Generating Code...
+  calc.vcxproj -> C:\Users\Пользователь\source\repos\calc\my calc\Debug\calc.exe
